@@ -13,5 +13,5 @@
 - 🔭 **Currently learning:** Data Engineering & Git
 - 💬 **Ask me about:** Data & Databases
 - 🌱 **Interests:** Data Science, Database Systems & Software Development
-- 📬 **Contact:** [your.email@example.com]
+- 📬 **Contact:** [nursalihah@graduate.utm.my]
 
