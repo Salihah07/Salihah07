@@ -1,11 +1,18 @@
-## Hi there 👋, currently a student at UTM 
+# Hi, I'm Nur Salihah 👋
 
-<!--
-**Salihah07/Salihah07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/USERNAME_GITHUB_ANDA/USERNAME_GITHUB_ANDA/main/image_0.png" width="200" style="border-radius: 50%;" />
+</p>
 
+## 🎓 Bachelor of Computer Science (Data Engineering) with Honours | Universiti Teknologi Malaysia (UTM)
 
-- 🔭 I’m currently studying at UTM ...
-- 🌱 I’m currently learning about data engineering ...
-- 😄 Pronouns: SHE/HER
+---
 
--->
+### 👩‍💻 About Me
+- 🔭 **Currently learning:** Data Engineering & Git
+- 💬 **Ask me about:** Data & Databases
+- 🌱 **Interests:** Data Science, Database Systems & Software Development
+- 📬 **Contact:** [your.email@example.com]
+
+---
+
