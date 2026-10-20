@@ -1,7 +1,7 @@
 # Hi, I'm Nur Salihah 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME_GITHUB_ANDA/USERNAME_GITHUB_ANDA/main/image_0.png" width="200" style="border-radius: 50%;" />
+  <img src="pic carrd.jpeg" width="200" style="border-radius: 50%;" />
 </p>
 
 ## 🎓 Bachelor of Computer Science (Data Engineering) with Honours | Universiti Teknologi Malaysia (UTM)
