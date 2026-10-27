@@ -10,6 +10,7 @@
 ---
 
 ### 👩‍💻 About Me
--🔭 **Interest:** 
+- 🎨 **Hobbies:** Cycling 🚴‍♀️ | Swimming 🏊‍♀️ | Playing Games 🎮
 - 📬 **Contact:** [nursalihah@graduate.utm.my]
+- 🔗 **LinkedIn:** [www.linkedin.com/in/nur-salihah-a44711443]
 
