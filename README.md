@@ -10,8 +10,6 @@
 ---
 
 ### 👩‍💻 About Me
-- 🔭 **Currently learning:** Data Engineering & Git
-- 💬 **Ask me about:** Data & Databases
-- 🌱 **Interests:** Data Science, Database Systems & Software Development
+- 🔭 **Currently learning:** Data Engineering 
 - 📬 **Contact:** [nursalihah@graduate.utm.my]
 
