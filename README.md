@@ -10,8 +10,6 @@
 ---
 
 ### 👩‍💻 About Me
-- 🔭 **Currently learning:** Data Engineering
-- ![Uploading despicablememinionsGIF.gif…]()
-
+-🔭 **Interest:** 
 - 📬 **Contact:** [nursalihah@graduate.utm.my]
 
